@@ -1,0 +1,26 @@
+{
+  "name": "crawlspace",
+  "version": "1.0.0",
+  "description": "Crawl app for crawling",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikewilso/crawlspace.git"
+  },
+  "keywords": [
+    "crawling"
+  ],
+  "author": "Michael Wilson, Ted Rand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikewilso/crawlspace/issues"
+  },
+  "homepage": "https://github.com/mikewilso/crawlspace#readme"
+}
